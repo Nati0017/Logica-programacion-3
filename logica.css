@@ -1,0 +1,28 @@
+.container1 {
+    background-color: rgba(144, 0, 255, 0.242);
+    border-style:groove;
+    border-color: black;
+    padding: 5px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color:black; 
+}
+
+#resultado {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.container {
+    background-color: aqua;
+    border-style:groove;
+    border-color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+}
